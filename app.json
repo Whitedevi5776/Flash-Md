@@ -1,14 +1,14 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"KÏÑGANONYMOUS-MD",
+  "description":"An easy and simple WhatsApp bot developed by King ANONYMOUS 👑👑",
   "keywords":[
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/France-King1/Flash-Md",
+  "logo":"https://telegra.ph/file/e5dae53eb81af81b677f8.mp4",
+  "repository":"https://github.com/Whitedevi5776/Flash-Md",
   "succes_url":"/",
 "stack":"container",
   
@@ -33,21 +33,21 @@
     }, "AUTO_SAVE_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(insert on to activate or no to deactivate ; don't write in capital letter)",
-      "value":"off",
+      "value":"on",
       "required":false
     }
     ,
      "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type on to activate this feature or type off to deactivat it ; don't write in capital letter)",
-      "value":"off",
+      "value":"on",
       "required":false
     }
     ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  separate them with a comma ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/d157f88bc5cd22835eac7.mp4,https://telegra.ph/file/e5dae53eb81af81b677f8.mp4",
       "required":false
 
      },

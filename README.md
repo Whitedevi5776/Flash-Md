@@ -24,21 +24,33 @@
 
 ***2.`Get Session ID` by [`SCANING QR`](https://scan-flash-md-ik5n.onrender.com) OR [`PAIRING CODE`](https://the-flash-md-sessions.onrender.com/pair)***
 
-*-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 
 #### DEPLOY TO HEROKU 
 **1. If You Don't Have An Account On Heroku**
-    <br>
-<p align="center"><a href="https://signup.heroku.com">
+
+- <a align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 **2. If You Have a Heroku Account**
-    <br>
-<p align="center"><a href="https://france-king.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://france-king.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+***
+
+#### DEPLOY TO CLEVER CLOUD
+**1. If You Don't Have An Account On Clever**
+- <a href="https://www.clever-cloud.com"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+**2. If You Have an account on clever**
+- <a href="https://console.clever-cloud.com/users/me/applications/new"><img title="Deploy the bot of your choice" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+**3. Join our telegram and watch tutorials on how to deploy**
+- <a href="https://t.me/france_king1"><img title="Author" src="https://img.shields.io/badge/JOIN NOW-black?style=for-the-badge&logo=Telegram"></a>
+
 
 
 ***
